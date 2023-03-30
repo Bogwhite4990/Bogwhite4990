@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working at Tractor Set GO! as QA Software Tester<br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with Ethical Hacking<br>🌱 I’m currently learning Ethical Hacking<br>💬 Ask me about anything<br>⚡ Fun fact <br>I once used my Python skills to create a program that automatically scans my home network for vulnerabilities, allowing me to practice my ethical hacking skills in a safe and controlled environment.
+🔭 I'm currently working as a QA Software Tester<br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with Ethical Hacking<br>🌱 I’m currently learning Ethical Hacking<br>💬 Ask me about anything<br>⚡ Fun fact <br>I once used my Python skills to create a program that automatically scans my home network for vulnerabilities, allowing me to practice my ethical hacking skills in a safe and controlled environment.
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@
 
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dontkill14J) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dontkill14J) 
 
   
 
