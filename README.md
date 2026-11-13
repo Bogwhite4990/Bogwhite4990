@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 **Full-Stack Developer, QA Engineer & Application Security Maintainer**  
-🛡️ Maintaining mission-critical web platforms and production infrastructure including **octbe.com**, **homzfood.com**, **lockersmith.co.uk**, and **deblocari247.ro**  
+🛡️ Maintaining mission-critical web platforms and production infrastructure including **octbe.com**, **homzfood.com**, **lockersmith.co.uk**, and **247deblocari.ro**  
 📦 Author of open-source security, payload-scanning, and server diagnostic utilities for Node.js & Python ecosystems  
 🤝 Focusing on **Ethical Hacking**, **Vulnerability Scanning**, **Automated QA**, and **Server Hardening**  
 ⚡ **Background:** Built custom Python network vulnerability scanners and modularized battle-tested production security middleware into open-source packages.
