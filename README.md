@@ -2,16 +2,15 @@
 
 🔭 **Full-Stack Developer, QA Engineer & Application Security Maintainer**  
 🛡️ Maintaining mission-critical web platforms and production infrastructure including **octbe.com**, **homzfood.com**, **lockersmith.co.uk**, and **247deblocari.ro**  
-📦 Author of open-source security, payload-scanning, and server diagnostic utilities for Node.js & Python ecosystems  
+📦 Author of open-source security, payload-scanning, and server protection utilities  
 🤝 Focusing on **Ethical Hacking**, **Vulnerability Scanning**, **Automated QA**, and **Server Hardening**  
 ⚡ **Background:** Built custom Python network vulnerability scanners and modularized battle-tested production security middleware into open-source packages.
 
 ---
 
-## 📦 Featured Open-Source Projects
+## 📦 Featured Open-Source Project
 
 * 🛡️ **[web-utilities](https://github.com/Bogwhite4990/web-utilities)** — Production security toolkit featuring XSS sanitization, SQLi & Path Traversal payload scanning, rate-limiting, HTTP security headers, and automated JSON audit logging.
-* 📈 **[server-health-monitor](https://github.com/Bogwhite4990/server-health-monitor)** — Zero-dependency Node.js server health check, memory diagnostics, and uptime monitoring utility.
 
 ---
 
